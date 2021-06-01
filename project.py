@@ -4,11 +4,7 @@ from Cryptodome.Cipher import AES as domeAES
 from Cryptodome.Random import get_random_bytes
 from Crypto import Random
 from Crypto.Cipher import AES as cryptoAES
-import PyPDF2
-pdfFileObj = open('example.pdf', 'rb')
-pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
-pageObj = pdfReader.getPage(0)
-datapdf  = (pageObj.extractText())
+f = open("ex.txt", "r")
 BLOCK_SIZE = domeAES.block_size
 
 key = "my_secret_key".encode()
@@ -39,11 +35,18 @@ def decrypt(enc):
     cipher = cryptoAES.new(__key__, cryptoAES.MODE_CFB, iv)
     b=  unpad(base64.b64decode(cipher.decrypt(enc[cryptoAES.block_size:])).decode('utf8'))
     return b
-
-encrypted_data =encrypt("Hi Steven!!!!!")
+#print(f.read())
+encrypted_data =encrypt(f.read())
+dataen = str(encrypted_data)
+Da =  dataen[2:130]
 print(encrypted_data)
+#print(len(encrypted_data))
+#print(Da)
 print("=============================")
 decrypted_data = decrypt(encrypted_data)
 print(decrypted_data)
-print("=============================")
-print(datapdf)
+
+f = open("encrypted_data.txt", "w")
+f.write("%s"%Da)
+f.close()
+
