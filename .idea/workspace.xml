@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e250bee-d5ca-407b-8d2e-923005e08413" name="Default Changelist" comment="run.exe">
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CYBER-SECURITY-FUNDAMENTALS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/icon/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/icon/icon.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/PKG-00.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/Tree-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/Tree-01.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/Tree-02.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/project.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/warn-project.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/project/xref-project.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/private.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/project.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/public.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/private.key" beforeDir="false" afterPath="$PROJECT_DIR$/private.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.py" beforeDir="false" afterPath="$PROJECT_DIR$/project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public.key" beforeDir="false" afterPath="$PROJECT_DIR$/public.key" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tKy1T2ZANPWUr3oO2R5W19gE21" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CYBER-SECURITY-FUNDAMENTALS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CYBER-SECURITY-FUNDAMENTALS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CYBER-SECURITY-FUNDAMENTALS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testread.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.project" />
+        <item itemvalue="Python.testread" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e250bee-d5ca-407b-8d2e-923005e08413" name="Default Changelist" comment="" />
+      <created>1622531862286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622531862286</updated>
+    </task>
+    <task id="LOCAL-00001" summary="read pdf">
+      <created>1622536614209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622536614209</updated>
+    </task>
+    <task id="LOCAL-00002" summary="txt write">
+      <created>1622537944066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622537944066</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add data">
+      <created>1622538857059</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622538857059</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pdf + txt">
+      <created>1622544289643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622544289643</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Demo">
+      <created>1622908514018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622908514018</updated>
+    </task>
+    <task id="LOCAL-00006" summary="del">
+      <created>1622908526708</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622908526708</updated>
+    </task>
+    <task id="LOCAL-00007" summary="run.exe">
+      <created>1622909407473</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622909407473</updated>
+    </task>
+    <task id="LOCAL-00008" summary="run.exe">
+      <created>1622909445801</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622909445801</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="read pdf" />
+    <MESSAGE value="txt write" />
+    <MESSAGE value="add data" />
+    <MESSAGE value="pdf + txt" />
+    <MESSAGE value="Demo" />
+    <MESSAGE value="del" />
+    <MESSAGE value="run.exe" />
+    <option name="LAST_COMMIT_MESSAGE" value="run.exe" />
+  </component>
+</project>
