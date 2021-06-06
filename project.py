@@ -13,17 +13,18 @@ from Crypto.Hash import SHA512
 from Crypto.Signature import pkcs1_15
 from Crypto.Cipher import AES
 from art import *
-import codecs
 print("#############"*10)
 Art=text2art("B6111090",font='block',chr_ignore=True) # Return ASCII text with block font
 print(Art)
 tprint("Poommin","rnd-xlarge")
 print("#############"*10)
-#tprint("Phinphimai","rnd-xlarge")
-#clear terminal
-#clear = lambda: os.system("cls")
 
-#Gen Key RSA
+#clear terminal
+clear = lambda: os.system("cls")
+
+#-------------------------- Gen Key RSA --------------------------------#
+
+#gen key rsa
 key = RSA.generate(2048)
 
 #private key
@@ -36,32 +37,14 @@ public_key = key.publickey().export_key()
 with open("public.key", "wb") as f:
     f.write(public_key)
 
-# Encrypt & DeCrypt TEXT
+#------------------ Encrypt & DeCrypt TEXT  -----------------------------#
+
 #block size
 BS = cryptoAES.block_size
 
 #gen key aes
-def genkeyaes():
-    key = get_random_bytes(32)
-    print(key)
-    k = codecs.decode(key, 'UTF-16')
-
-    #k = __key__.decode('utf-16')
-    print(type(k))
-    print(k)
-    with open("aes.txt", "w", encoding="utf-16") as f:
-        f.write(k)
-    #return(key)
-genkeyaes()
-#key = genkeyaes()
-with open('aes.txt', 'r', encoding="utf-16") as f:
-    kk = f.read()
-
-key = codecs.encode(kk, 'UTF-16')
+key = get_random_bytes(32)
 __key__ = hashlib.sha256(key).digest()
-#__key__ = bytes(__key__, 'utf-16')
-#__key__ = hashlib.sha256(key).digest()
-print(__key__)
 
 #function encrypt text
 def ent(raw):
@@ -129,7 +112,7 @@ def de_text(data_s):
 
     try:
         pkcs1_15.new(key).verify(h, signa)
-       # print("Digital Signa !!")
+        # print("Digital Signa !!")
         tprint("Signa", "rnd-xlarge")
     except (ValueError, TypeError):
         print("Help Plaease")

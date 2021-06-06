@@ -1,37 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e250bee-d5ca-407b-8d2e-923005e08413" name="Default Changelist" comment="run.exe">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CYBER-SECURITY-FUNDAMENTALS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/icon/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/icon/icon.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/PKG-00.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/Tree-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/Tree-01.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/Tree-02.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/project.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/warn-project.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/project/xref-project.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/private.key" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/project.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/public.key" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon.spec" beforeDir="false" />
+    <list default="true" id="9e250bee-d5ca-407b-8d2e-923005e08413" name="Default Changelist" comment="test error.py">
+      <change afterPath="$PROJECT_DIR$/project run error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/private.key" beforeDir="false" afterPath="$PROJECT_DIR$/private.key" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project.py" beforeDir="false" afterPath="$PROJECT_DIR$/project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.spec" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public.key" beforeDir="false" afterPath="$PROJECT_DIR$/public.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622909445801</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test error.py">
+      <created>1622965959681</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622965959681</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +202,7 @@
     <MESSAGE value="Demo" />
     <MESSAGE value="del" />
     <MESSAGE value="run.exe" />
-    <option name="LAST_COMMIT_MESSAGE" value="run.exe" />
+    <MESSAGE value="test error.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="test error.py" />
   </component>
 </project>
